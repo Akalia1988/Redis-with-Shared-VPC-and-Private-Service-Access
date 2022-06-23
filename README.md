@@ -1,1 +1,1 @@
-# Redis-with-Shared-VPC-and-Private-Service-Access
+# Redis-with-Shared-VPC-and-Private-Service-Access-GCP
